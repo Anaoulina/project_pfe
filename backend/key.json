@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "piggybank-c09e8",
+    "private_key_id": "502cca0cfbadf1965d310c1f2da68d0fab3acfbd",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDc9EI1RdsdAnm5\n4Oa9g2bOixouEpPJIy1JCSypjtmZ0yEG7xj5TZXUkj1er8KTuYMf632KGWjUIKo+\nh/d7Re8PH9uMvK+yqHwTs5lV2eRvsFXQ59LlaaVFUW72Za8SEfJ8BelWpgxN/UUL\nH/0ijCKnDQyrCZS5ncjd0IMaYxii95FB2aXSJePdwjwy1LgAI3xYxvrTaH5LRzZJ\nrvQFt9fU/vjYBt6ClLl3pfw4hO81KsK7D+hXR5WFsvtlx4A+IpUKe2JDIvYYny4j\ns3aCRIiFXrQ3tg0iDUW/mOcI2XpGA4ojA/TXEn4hbcY4HWEKXBfm4nml1R+GSpdl\ng8c2fYcdAgMBAAECggEAKQmEsnhC9eRbz1YiBNi+42WaeywgHp9V7dayYNuTNqqr\n26nUrZjnVw/CLi/ep6kw3WDTdC679YoLlImUQWT/vYNhN4Zj6363bMFSnUtWzhem\nGKK13L3+YB17ym+gUG7c5oQCjoFQj7uWczaBwUTdusEFtU6WPNM9V1U+xEvba4jP\nCurTOQOgk6Y72Fo26h0Urck690AUZfwWpS61CEo7joIImcx0f/v8Bp+Soyii9Q+t\nYIM+Udqh75ylNL22kVolSEnxl7IJ/sNiiH+x4AjUiV7I4FHVNXHX1WeN/ZeQpw82\n68wfpnzyHUUTFmiPHnucbyHx9oWhHbN0X10hbn4YgQKBgQD7UlxP3omRWMyOnic4\n+ZL1rdGhhw40zJE+tEp+tJ/Tiu3gKvDEu9eHAC7eAlHTfhQYhc7ThHX7uig6IK37\nL6Wtm71pbbXqMeWr/SNKABXdIqYYP73+YCiqxugrBetdOkU4akzTazj2P2QyxdlA\n3y2aQk4X8gctSJwOXUyY7ycopQKBgQDhES95CUFuYXueosSQAzMV9fXA7ug3s11I\nklXbjYNIVTjoTmuxs4w8FiNidz7Xc7sqwDhFwzwx2bSMk7KP7b9PMdmcQktxrb3F\nigoGUgEk/NtkCuzAnj4snKrxPXM9dsGkhhc3PVCO/LkO9NblYjpKmpo/Xlbp15+E\nWIaUlewjGQKBgQCEPFKsB6iUnIeNJvP2S4Mi16FsfzZfW5+0wYJM5tcNpJUDFTT4\nHuoJc3Q1hjztrfH+8TDhJFo76DhQVW+Vsf1XupFQDtTf8/8nnprZze+zGg8QxUE/\nvfLH4L66HHQ56nYPeAcSWuFu1+3ttSJZutQwzWBvwv45unG6MScjdPpCrQKBgQDg\nhIVIB8ym8UYhlRvi0d5HXQqgQXOUBTDccWaG05+QK7vOOlTCe2s8kZUQ6AXfZgrj\ndcdtCHrm+9dZmQk6/R+oQAFmGNgr+fbitXaUoX+Ux02Qejl9WR6K4GrCpttsCCja\nGA3WxCq1yTRO0D4Dq76cp6eR6WlocvolSy5N0VU0GQKBgFmRaR5Pp80IpO4+mxKd\n1JsQF9AulhQP4pFeYITf9rIVcaXpPIXkFTkFXBYiiKQQ0K45G0lVn8V4ZEOtCgbe\nXKtCFhUJnAGhiTf1/wnMSq4nOrLWePNQ/spmSa3kXj39lPNZqeqMUDxfS1mVpaXh\ndDtHeJg4yflui8o2a+W8AiUK\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-ypon2@piggybank-c09e8.iam.gserviceaccount.com",
+    "client_id": "100111636297078370095",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ypon2%40piggybank-c09e8.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
